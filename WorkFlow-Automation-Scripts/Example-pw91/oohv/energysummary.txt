@@ -1,0 +1,72 @@
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Co/arxiv/fe.dat 
+
+   98           0.00990400           -86.612139            -0.174806 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Cu/arxiv/fe.dat 
+
+  122           0.00743700           -78.003944            -0.502198 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Pd/arxiv/fe.dat 
+
+  175           0.00779900           -81.867727             -0.12455 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Pt/arxiv/fe.dat 
+
+    3           0.00853400           -84.124496            -3.66e-05 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Rh/arxiv/fe.dat 
+
+  157           0.00870400           -87.930924            -0.299018 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Ag/arxiv/fe.dat 
+
+   86           0.00981800           -74.588571            -0.134529 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Ni/arxiv/fe.dat 
+
+  117           0.00953900           -83.034191            -0.130656 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Au/arxiv/fe.dat 
+
+   53           0.00985000           -75.460122            -0.217645 
+
+               
+               
+               
+               
+/gpfs/home/hpce17/hpce17250/NSAs/oohv/pw91/oohv/Ir/arxiv/fe.dat 
+
+  183           0.00967800           -92.066758             -0.31194 
+
+               
+               
+               
+               

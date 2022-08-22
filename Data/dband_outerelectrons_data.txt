@@ -1,0 +1,10 @@
+NSA	   ve   dbc_wrt_PtPt 
+Pt-Co	9	-0.3016
+Pt-Ni	10	-0.1644
+Pt-Cu	11	 0.1267
+Pt-Rh	9	-0.2064
+Pt-Pd	10	 0.1743
+Pt-Ag	11	 0.3094
+Pt-Ir	9	-0.3979
+Pt-Pt	10	 0.0
+Pt-Au	11	 0.2428

@@ -1,0 +1,9 @@
+Ag    energy  without entropy=      -74.56031793  energy(sigma->0) =      -74.58857145
+Au    energy  without entropy=      -75.44024995  energy(sigma->0) =      -75.46012248
+Co    energy  without entropy=      -86.59955061  energy(sigma->0) =      -86.61213905
+Cu    energy  without entropy=      -77.97814995  energy(sigma->0) =      -78.00394406
+Ir    energy  without entropy=      -92.05753423  energy(sigma->0) =      -92.06675805
+Ni    energy  without entropy=      -83.03571070  energy(sigma->0) =      -83.03419145
+Pd    energy  without entropy=      -81.87701267  energy(sigma->0) =      -81.86772700
+Pt    energy  without entropy=      -84.12422894  energy(sigma->0) =      -84.12449649
+Rh    energy  without entropy=      -87.91655285  energy(sigma->0) =      -87.93092393
