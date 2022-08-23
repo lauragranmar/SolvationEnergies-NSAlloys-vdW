@@ -22,7 +22,8 @@ Each folder contains the data, and python scripts that creates the figures repre
 
 ### Workflow-Automation-Scripts
 
-#### Example 
+#### Example
+
 Folder containing files from one set of simulations. Useful as a reference.
 
 * The output directories, BADER, arxiv, and FREQS are created automatically after running the modified version of the cleaning script from the vtst tools.
